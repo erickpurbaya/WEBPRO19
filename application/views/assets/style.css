@@ -1,0 +1,164 @@
+            .pilihanDaf{
+                margin: 10px 0px 0px 85px;
+                background-color: rgb(93, 45, 133); 
+                border-top-right-radius: 5px;
+                border-top-left-radius: 5px;
+                font-size: 15px; 
+                color: rgb(199, 193, 193);
+                height: 30px;
+            }
+            .daftar{
+                color:rgb(199, 193, 193); 
+            }
+            .daftar:hover{
+                color:white;
+            }
+            .nav-linkk{
+                padding: 0px;
+                line-height: 1;
+                display: block;
+                margin-top: 10px;
+                color: rgb(199, 193, 193);
+            }
+            html,body{
+                margin: 0;
+            }
+            .nav-item{
+                font-size: 13px;
+                margin: 0;
+                padding: 0 5px;
+            }
+            .nav-linkk:hover{
+                color:white;
+                text-decoration: none;
+            }
+            .kym {
+                color: white;
+                margin-top: 5px;
+            }
+            .nav{
+                overflow: hidden;
+            }
+            .container{
+                background-color: rgb(37, 30, 80);
+                margin: auto;
+                margin-bottom: 0px;
+                border-top-right-radius: 10px;
+                border-top-left-radius: 10px;
+                padding: 0px;
+            }
+            .forma{
+                border-radius: 0px;
+                margin: 20px 0px 0px 0px;
+            }
+            .search{
+                margin-bottom: 0px; 
+                margin-top: 15px;
+                align-items: flex-end;
+            }
+            .searchForm{
+                height: 23px;
+                width: 300px;
+            }
+            .navbarUtama{
+                margin-top: 15px;
+            }
+            .navbarPutih{
+                margin: 10px;
+                margin-top: 0px;
+                background-color: rgb(202, 196, 196);
+                height: 35px;
+                border-bottom-right-radius: 10px;
+                border-bottom-left-radius: 10px;
+                border-top-right-radius: 0px;
+                border-top-left-radius: 0px;
+            }
+            .nav-linkkk{
+                font-size: 16px;
+                padding: 0px;
+                line-height: 1;
+                margin: 3px;
+                margin-top: 10px;
+                display: block;
+                color: rgb(44, 36, 36);
+                font-weight: bold;
+            }
+            .nav-linkkk:hover{
+                text-decoration: none;
+            }
+            .barisGambar{
+                margin: 5px 10px 5px 10px;
+                padding: 0px;
+                background: white;
+            }
+            .also{
+                background-color: white;
+                padding: 0px;
+                padding-bottom: 5px;
+                border-bottom: 5px solid rgb(212, 190, 190);
+            }
+            .nav-linkAlso{
+                color:rgb(150, 150, 150);
+            }
+            .nav-linkAlso:hover{
+                color:rgb(150, 150, 150);
+            }
+            .kontenABOUT{
+                background-color: white;
+                margin-top: 25px;
+                border-top: 1px solid rgb(214, 214, 223);
+                border-radius: 0px;
+                padding-top: 10px;
+            }
+            .judulChat{
+                background-color: white;
+                margin-top: 25px;
+                border-radius: 0px;
+                border-top: 1px solid rgb(214, 214, 223);
+            }
+            .judulKontenChat{
+                border-bottom: 1px solid rgb(214, 214, 223);
+                padding-top: 10px;
+            }
+            .someRules{
+                padding-top: 10px;
+                border-bottom: 1px solid rgb(214, 214, 223);
+            }
+            p {
+                font-size: 14px;
+            }
+            .IRC{
+                padding: 10px;
+                background-color: rgb(212, 206, 206);
+                border-radius: 0px;
+                border: 1px solid rgb(145, 136, 136);
+            }
+            .buttonIRC{
+                border-radius: 5px;
+                background-color: rgb(128, 13, 13);
+                border: 0px;
+                color: white;
+                font-weight: bold;
+                padding: 5px;
+                text-align: center;
+            }
+            .judulCredits{
+                background-color: white;
+                margin-top: 25px;
+                border-radius: 0px;
+                border-top: 1px solid rgb(214, 214, 223);
+                padding-top: 10px;
+            }
+            .footer{
+                background-color: rgba(214, 197, 197, 0.705);
+                font-weight: normal;
+            }
+            .judulMenu{
+                border-right: 1px solid rgb(214, 214, 223);
+                font-size: 12px;
+            }
+            .kontenMenu{
+                font-size: 12px;
+                font-weight: normal;
+            }
+           

@@ -1,0 +1,142 @@
+#footer {
+    width: 100%;
+    margin-top: 25px;
+    max-height: 128px;
+    overflow: hidden;
+    background-color: #e5e5e5;
+    border-top: 1px solid #d9d9d9;
+}
+header, hgroup, nav, article, section, details, aside, footer {
+    display: block;
+}
+#footer .wrap {
+    position: relative;
+    padding: 10px 5px;
+}
+.wrap {
+    width: 1020px;
+    margin: 0 auto;
+}
+html, body, header, hgroup, nav, article, section, details, aside, footer, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+#footer_boxes {
+    margin: auto;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 1.0em;
+}
+html, body, header, hgroup, nav, article, section, details, aside, footer, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+thead, tbody, tr, th, td {
+    font-size: 1.0em;
+    line-height: 1.0em;
+}
+#footer_boxes .footer_box:first-child {
+    border: none;
+}
+.footer_box {
+    width: 134px;
+    padding: 0 0 0 14px;
+}
+.footer_box h5 {
+    color: #606060;
+    font-size: 0.75em;
+    line-height: 1.0em;
+    padding: 0 0 4px 0;
+    font-weight: bold;
+}
+h1, h2, h3, h4, h5, h6, input, select, textarea, p, blockquote, li, dt, dd {
+    letter-spacing: 0;
+}
+body, h1, h2, h3, h4, h5, h6, input, select, textarea {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+}
+ul {
+    padding: 0 0 4px 0;
+}
+ol, ul {
+    list-style: none;
+}
+.footer_box ul li {
+    color: #606060;
+    font-size: 0.75em;
+    line-height: 1.0em;
+    padding: 2px 0;
+}
+p, blockquote, li, dt, dd {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+}
+#footer_boxes .footer_box ul li a {
+    color: #606060;
+}
+a {
+    text-decoration: none;
+}
+html, body, header, hgroup, nav, article, section, details, aside, footer, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 1.0em;
+}
+#footer_boxes .footer_box {
+    width: 134px;
+    padding: 0 0 0 14px;
+    border-left: 1px solid #cecece;
+}
+#footer_boxes .footer_box ul {
+    padding: 0 0 4px 0;
+}
+html, body, header, hgroup, nav, article, section, details, aside, footer, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+#sub_network_footer_wrapper {
+    width: 100%;
+    background: white;
+    padding-bottom: 50px;
+}
+#subnetworkfooter {
+    margin: 0px auto 0;
+    width: 1000px;
+    background-color: #FFFFFF;
+    text-align: left;
+    color: #333333;
+    border-top: none;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+#subnetworkfooter p {
+    margin: 0;
+    padding: 10px 0 0 15px;
+    font-size: 12px;
+    line-height: normal;
+}
+.footerlinks a {
+    font-weight: bold;
+    color: #666666;
+}
